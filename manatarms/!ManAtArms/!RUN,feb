@@ -1,0 +1,24 @@
+QUIT
+RMCLEAR
+ECHO <22><12>
+WIMPSLOT 440K 440K
+<Obey$Dir>.Exsound
+<Obey$Dir>.Samples.Piano
+<Obey$Dir>.Samples.Drain
+<Obey$Dir>.Samples.Clock
+<Obey$Dir>.Samples.Gong
+<Obey$Dir>.Samples.Points
+<Obey$Dir>.Samples.Glass
+<Obey$Dir>.Samples.Breathe
+<Obey$Dir>.Samples.Die
+<Obey$Dir>.Samples.Sheath
+<Obey$Dir>.Samples.Hiss
+<Obey$Dir>.Samples.Shriek
+<Obey$Dir>.Samples.Push
+<Obey$Dir>.Samples.Door
+<Obey$Dir>.Samples.Cullis
+<Obey$Dir>.Samples.Time
+<Obey$Dir>.Samples.Magic
+<Obey$Dir>.Samples.Bell
+<Obey$Dir>.Samples.Scream
+<Obey$Dir>.Castle1
